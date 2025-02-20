@@ -1,0 +1,68 @@
+{
+    "Device_ID": [
+        [
+            null,
+            "The 'Device_ID' column has a total of 30 unique entries, with 'ASSET001' being one instance that appears only once. Since this is an identifier column, statistical measures like mean, standard deviation, or quartile ranges are not applicable."
+        ]
+    ],
+    "Laptop_Manufacturer": [
+        [
+            null,
+            "The column 'Laptop_Manufacturer' contains data for 30 laptops from three unique manufacturers. DELL is the most common manufacturer, appearing 10 times. Numerical statistics such as mean, standard deviation, and quartiles are not applicable to this categorical data."
+        ]
+    ],
+    "Laptop_Model": [
+        [
+            null,
+            "The data, consisting of 30 entries for 'Laptop_Model', features three unique models. The XPS model is the most frequent, accounting for half of the entries. As this column contains categorical data, measures like mean, minimum, and maximum are not applicable.\n"
+        ]
+    ],
+    "Boot_Speed(s)": [
+        [
+            "/Users/apple/Documents/Priyesh/Repositories/2025/GrowthHack/FinSyn-Innovators-GenAI/mock/structured_data/insights_plot/synthetic_data/Boot_Speed(s).html",
+            "The 'Boot_Speed(s)' data has 30 entries, with speeds ranging from 27.13s to 58.89s. The average boot speed is approximately 42.64s, with a standard deviation of about 9.03. Half of the values lie under 43.67s, indicating a somewhat balanced distribution of boot speeds."
+        ]
+    ],
+    "Logon_Speed(s)": [
+        [
+            "/Users/apple/Documents/Priyesh/Repositories/2025/GrowthHack/FinSyn-Innovators-GenAI/mock/structured_data/insights_plot/synthetic_data/Logon_Speed(s).html",
+            "The 'Logon_Speed(s)' data with a count of 30 has a mean speed of 19.59 seconds. The data exhibits some variability with a standard deviation of approximately 6.82. The speeds range from a minimum of 8.85 seconds to a maximum of 31.27 seconds."
+        ]
+    ],
+    "CPU_Utilization(%)": [
+        [
+            "/Users/apple/Documents/Priyesh/Repositories/2025/GrowthHack/FinSyn-Innovators-GenAI/mock/structured_data/insights_plot/synthetic_data/CPU_Utilization(%).html",
+            "The 'CPU_Utilization(%)' data set contains 30 values with a mean of 52.457%. The values range from a minimum of 34.21% to a maximum of 70.22%, exhibiting standard deviation of 10.70, indicating moderate dispersion. Median (50th percentile) stands at 51.025%, meaning half the values are above or below this."
+        ]
+    ],
+    "DEX_Score": [
+        [
+            "/Users/apple/Documents/Priyesh/Repositories/2025/GrowthHack/FinSyn-Innovators-GenAI/mock/structured_data/insights_plot/synthetic_data/DEX_Score.html",
+            "The 'DEX_Score' column has 30 entries, ranging from 1 to 10. The average score is approximately 5.23, indicating a moderate rating overall. The standard deviation is approximately 2.91, suggesting significant variability in the scores. The median score is 5.5, slightly above the mean."
+        ]
+    ],
+    "WiFi_Upload_Speed(Mbps)": [
+        [
+            "/Users/apple/Documents/Priyesh/Repositories/2025/GrowthHack/FinSyn-Innovators-GenAI/mock/structured_data/insights_plot/synthetic_data/WiFi_Upload_Speed(Mbps).html",
+            "The 'WiFi_Upload_Speed(Mbps)' data for 30 observations ranges from 65.04 to 423.57 Mbps with an average of 274.54 Mbps. The median speed is 279.95 Mbps, and the data exhibits a spread with a standard deviation of 99.95 Mbps. Generally, upload speeds are fairly high with some variation."
+        ]
+    ],
+    "WiFi_Download_Speed(Mbps)": [
+        [
+            "/Users/apple/Documents/Priyesh/Repositories/2025/GrowthHack/FinSyn-Innovators-GenAI/mock/structured_data/insights_plot/synthetic_data/WiFi_Download_Speed(Mbps).html",
+            "The WiFi download speed data consists of 30 entries varying from 450.75 Mbps to 978.06 Mbps. The average speed is approximately 696 Mbps, with a standard deviation of 138 Mbps. The median speed, indicating the middle value, is roughly 672 Mbps. Most speeds tend to range from 606 Mbps to 786 Mbps."
+        ]
+    ],
+    "GPU_Usage(%)": [
+        [
+            "/Users/apple/Documents/Priyesh/Repositories/2025/GrowthHack/FinSyn-Innovators-GenAI/mock/structured_data/insights_plot/synthetic_data/GPU_Usage(%).html",
+            "The 'GPU_Usage(%)' data, from 30 entries, shows an average usage of 51.02%, with a standard deviation of 21.87, indicating significant variation. Range of usage is wide, from a minimum of 8.73% to a maximum of 88.45%. The median usage is 47.88%."
+        ]
+    ],
+    "Battery_Health(%)": [
+        [
+            "/Users/apple/Documents/Priyesh/Repositories/2025/GrowthHack/FinSyn-Innovators-GenAI/mock/structured_data/insights_plot/synthetic_data/Battery_Health(%).html",
+            "The 'Battery_Health(%)' data reveals that, of 30 devices analyzed, average battery health is approximately 72%, with a standard deviation of around 14.6%. The battery health ranges from a minimum of 40.3% to a maximum of 96.9%. Half of these devices have battery health above 72%."
+        ]
+    ]
+}

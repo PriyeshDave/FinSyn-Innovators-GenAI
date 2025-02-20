@@ -1,0 +1,11 @@
+incident_id,employee_name,incident_description,incident_priority,status,category,resolution_time,assigned_to,date_raised,sub_category
+INCAZP01,John Doe,Network connectivity issue,P1,In Progress,IT Support,2022-03-15T10:30:00Z,Alice Smith,2022-03-15T10:00:00Z,Internet Connectivity
+INCAZP02,Jane Smith,Software application error,P2,Open,Software Development,2022-03-16T14:45:00Z,Michael Johnson,2022-03-16T14:00:00Z,Bug Fix
+INCAZP03,Alex Brown,Printer not working,P3,Resolved,Hardware Support,2022-03-17T09:20:00Z,Sarah Wilson,2022-03-17T09:00:00Z,Hardware Issue
+INCAZP04,Emily Davis,Email configuration problem,P1,Closed,Email Services,2022-03-18T11:10:00Z,David Thompson,2022-03-18T11:00:00Z,Configuration
+INCAZP05,Michael Johnson,Server downtime,P2,Open,Infrastructure,2022-03-19T16:30:00Z,John Doe,2022-03-19T16:00:00Z,Server Issue
+INCAZP06,Sarah Wilson,Database access issue,P3,In Progress,Database Management,2022-03-20T13:25:00Z,Alex Brown,2022-03-20T13:00:00Z,Access Problem
+INCAZP07,David Thompson,Security breach alert,P1,Resolved,Security,2022-03-21T08:40:00Z,Emily Davis,2022-03-21T08:00:00Z,Security Threat
+INCAZP08,Alice Smith,Website not loading,P2,Open,Web Development,2022-03-22T12:55:00Z,Jane Smith,2022-03-22T12:00:00Z,Website Issue
+INCAZP09,Jack Wilson,VPN connection failure,P3,Closed,Network Security,2022-03-23T15:15:00Z,Olivia Brown,2022-03-23T15:00:00Z,VPN Problem
+INCAZP10,Olivia Brown,Data loss incident,P1,Open,Data Management,2022-03-24T17:45:00Z,Jack Wilson,2022-03-24T17:00:00Z,Data Loss

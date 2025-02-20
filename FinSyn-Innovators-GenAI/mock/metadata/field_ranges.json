@@ -1,0 +1,32 @@
+{
+    "incident_id": {
+        "placeholder": "INCAZP01"
+    },
+    "employee_name": {
+        "placeholder": ""
+    },
+    "incident_description": {
+        "placeholder": ""
+    },
+    "incident_priority": {
+        "placeholder": "P1, P2, P3"
+    },
+    "status": {
+        "placeholder": ""
+    },
+    "category": {
+        "placeholder": ""
+    },
+    "resolution_time": {
+        "placeholder": ""
+    },
+    "assigned_to": {
+        "placeholder": ""
+    },
+    "date_raised": {
+        "placeholder": ""
+    },
+    "sub_category": {
+        "placeholder": ""
+    }
+}

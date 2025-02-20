@@ -1,0 +1,62 @@
+{
+  "incident_id": {
+      "type": "string",
+      "description": "Unique identifier for the incident",
+      "format": null,
+      "required": true
+  },
+  "employee_name": {
+      "type": "string",
+      "description": "Name of the employee who raised the incident",
+      "format": null,
+      "required": true
+  },
+  "incident_description": {
+      "type": "string",
+      "description": "Detailed description of the incident",
+      "format": null,
+      "required": true
+  },
+  "incident_priority": {
+      "type": "string",
+      "description": "Priority level of the incident",
+      "format": null,
+      "required": false
+  },
+  "status": {
+      "type": "string",
+      "description": "Current status of the incident",
+      "format": null,
+      "required": false
+  },
+  "category": {
+      "type": "string",
+      "description": "Category of the incident",
+      "format": null,
+      "required": false
+  },
+  "resolution_time": {
+      "type": "string",
+      "description": "Timestamp of when the incident was resolved",
+      "format": "date-time",
+      "required": false
+  },
+  "assigned_to": {
+      "type": "string",
+      "description": "Name of the employee assigned to resolve the incident",
+      "format": null,
+      "required": false
+  },
+  "date_raised": {
+      "type": "string",
+      "description": "Timestamp of when the incident was reported",
+      "format": "date-time",
+      "required": false
+  },
+"sub_category": {
+      "type": "string",
+      "description": "Sub category of the incident",
+      "format": "null",
+      "required": false
+  }
+}
