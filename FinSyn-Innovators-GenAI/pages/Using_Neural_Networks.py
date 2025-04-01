@@ -78,15 +78,14 @@ if uploaded_files:
         # Display real and synthetic data side by side
         for key in data_dict.keys():  # Iterate over uploaded file names
             if key in synthetic_data:  # Ensure synthetic data exists for the key
-                st.markdown(f"### File: {key}")
+                #st.markdown(f"### Table Name: {key}")
+                st.markdown(f"<h3 style='text-align: center; color: black;'> Table Name: {key} </h3>", unsafe_allow_html=True)
                 col1, col2 = st.columns(2)
-
                 with col1:
-                    st.write("Real Data")
+                    st.markdown(f"<h5 style='text-align: center; color: black;'> Real Data </h5>", unsafe_allow_html=True)
                     st.dataframe(data_dict[key])
-
                 with col2:
-                    st.write("Synthetic Data")
+                    st.markdown(f"<h5 style='text-align: center; color: black;'> Test Data </h5>", unsafe_allow_html=True)
                     st.dataframe(synthetic_data[key])
                 
                 table_evaluator_results_path = f'/Users/apple/Documents/Priyesh/Repositories/2025/Synthetic-Data-Generation/outputs/table_evaluator_results/regulatory_reporting/{key}/'

@@ -1,0 +1,21 @@
+incident_id,employee_name,incident_description,incident_priority,incident_status,incident_category,resolution_time,assigned_to,incident_resolution,sub_category
+INCAZP01,John Doe,P1, P2, P3,High,Open,Software,2022-10-20T09:00:00Z,Alice Smith,Issue resolved,Technical
+INCAZP02,Jane Smith,P3,Low,In Progress,Hardware,2022-10-21T10:30:00Z,Bob Johnson,Resolved promptly,Non-Technical
+INCAZP03,Michael Brown,P2,Medium,Closed,Network,2022-10-22T11:45:00Z,Sarah Adams,Resolution pending,Technical
+INCAZP04,Emily Wilson,P1,High,Open,Database,2022-10-23T13:15:00Z,Chris Thompson,Waiting for response,Non-Technical
+INCAZP05,David Lee,P3,Low,Resolved,Security,2022-10-24T14:20:00Z,Kate Roberts,Issue under investigation,Technical
+INCAZP06,Sophia Garcia,P2,Medium,In Progress,Cloud,2022-10-25T16:00:00Z,Mark Davis,Resolution in progress,Non-Technical
+INCAZP07,Alexander Martinez,P1,High,Open,Infrastructure,2022-10-26T17:30:00Z,Olivia White,Escalated to senior team,Technical
+INCAZP08,Isabella Rodriguez,P3,Low,Resolved,Application,2022-10-27T19:10:00Z,Luke Harris,Resolution provided,Non-Technical
+INCAZP09,Ethan Moore,P2,Medium,In Progress,Server,2022-10-28T20:45:00Z,Grace Clark,Waiting for approval,Technical
+INCAZP10,Oliver Young,P1,High,Open,Backup,2022-10-29T22:00:00Z,Lily Baker,On hold,Non-Technical
+INCAZP11,Amelia King,P3,Low,Resolved,Virtualization,2022-10-30T23:55:00Z,Jack Wright,Investigating root cause,Technical
+INCAZP12,Nathan Hill,P2,Medium,In Progress,Storage,2022-10-31T01:20:00Z,Ava Green,Resolution delayed,Non-Technical
+INCAZP13,Charlotte Scott,P1,High,Open,Monitoring,2022-11-01T02:45:00Z,Owen Young,Reopened,Technical
+INCAZP14,William Turner,P3,Low,Resolved,Firewall,2022-11-02T04:00:00Z,Emma Hall,Resolved with workaround,Non-Technical
+INCAZP15,Samantha Cooper,P2,Medium,In Progress,VPN,2022-11-03T05:30:00Z,Noah Adams,Resolution initiated,Technical
+INCAZP16,Daniel Rivera,P1,High,Open,Integration,2022-11-04T06:55:00Z,Mia Murphy,Resolution pending approval,Non-Technical
+INCAZP17,Mia Ward,P3,Low,Resolved,Wireless,2022-11-05T08:10:00Z,Ethan Campbell,Resolution in review,Technical
+INCAZP18,Lucas Mitchell,P2,Medium,In Progress,Authentication,2022-11-06T09:45:00Z,Isabel Reed,Resolution with workaround,Non-Technical
+INCAZP19,Grace Phillips,P1,High,Open,Disaster Recovery,2022-11-07T11:00:00Z,James Ross,Waiting for feedback,Technical
+INCAZP20,Benjamin Evans,P3,Low,Resolved,Access Control,2022-11-08T12:25:00Z,Chloe Wood,Resolution closed,Non-Technical

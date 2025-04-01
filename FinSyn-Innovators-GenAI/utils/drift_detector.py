@@ -234,7 +234,6 @@ class DriftDetector:
         
         textual_embeddings_drift_mmd_report_path = "./outputs/drift_reports/textual_data/textual_embeddings_drift_mmd_report.html"
         embedding_drif_mmd_report.save_html(textual_embeddings_drift_mmd_report_path)
-    
         return textual_embeddings_drift_mmd_report_path
 
 
